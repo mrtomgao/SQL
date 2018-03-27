@@ -1,0 +1,1 @@
+SELECT *  FROM [dbWeb].[dbo].[tbl_DealerOnly] where account like '01%' and activatedate>'1/1/2016' order by account 
